@@ -77,3 +77,12 @@ Problematic for: Story enthusiasts who don't know much about the universe yet, s
 Put together, that spells the easy to remember ;) word
 *SHCAMPF*
 
+
+# My Personal Spoiler Preferences
+
+All of the categories are technically spoilers.
+
+Personally, I don't mind the [M]issing out spoilers, but I don't like any of the others, unless they are maybe **very** minor.
+
+So my spoiler type would be *SHCAPF* :D
+
