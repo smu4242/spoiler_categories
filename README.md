@@ -61,7 +61,7 @@ Gives away how the game is played, e.g. in a game where you fight with swords, y
 
 Example: "You'll soon be able to dash twice."
 
-### [M] Missing out spoiler
+### [O] Missing out spoiler
 Gives away something that you technically have seen already (it was on the screen), but you forgot about it or didn't realize it was there.
 
 The best way to address this is to say: "You missed something, do you want to know more?" instead of just pointing out what they missed.
@@ -75,14 +75,14 @@ Why are they problematic: You never know if the person being spoiled is aware th
 Problematic for: Story enthusiasts who don't know much about the universe yet, so they cannot distingush it from a real spoiler. So they *think* they are being spoiled.
 
 Put together, that spells the easy to remember ;) word
-*SHCAMPF*
+*SHCAMOPF*
 
 
 # My Personal Spoiler Preferences
 
 All of the categories are technically spoilers.
 
-Personally, I don't mind the [M]issing out spoilers, but I don't like any of the others, unless they are maybe **very** minor.
+Personally, I don't mind the Missing [O]ut spoilers, but I don't like any of the others, unless they are maybe **very** minor.
 
-So my spoiler type would be *SHCAPF* :D
+So my spoiler type would be *SHCAMPF* :D
 
